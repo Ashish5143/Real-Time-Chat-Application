@@ -18,3 +18,8 @@ Server Side JavaScript will handle the Socket IO connections.
 If a new user joins, let the other users connected with server know.
 If someone sends the message, broadcast it to other people.
 If someone leaves the chat, let others know.
+
+![image](https://github.com/Ashish5143/Real-Time-Chat-Application/assets/120575887/62e9df98-ca2c-409d-8f40-08b098115b98)
+
+
+![image](https://github.com/Ashish5143/Real-Time-Chat-Application/assets/120575887/a3043e0a-9a57-4c07-b0ed-46ef4776adf4)
